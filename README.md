@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">👋 ¡Hola! Soy Ignacio Cabrera-Balmaceda</h1>
+<h2 align="center"> 👨🏽‍💻 Alias BackBalma 📚 </h2>
+<p align="center">Desarrollador Junior, enfocado principalmente en BackEnd con Java</p>
 
-<!--
-**BackBalma/BackBalma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📍 Desde: Chile 🇨🇱
+- 📚 Estudiando: Ingenieria en Informatica
+- 🏛️ Universidad: Universidad Tecnica Federico Santa Maria
+- ☕ Principales herramientas: Java, SpringBoot, ThymeLeaft, React, PostgreSQL y Cafe :D
+- 
+
+---
+
+### 📖 Estudios
+
+- 🏛️ Universidad Tecnica Federico Santa Maria 🏛️
+  - Ingenieria en Informatica (Cursando)
+  - Tecnico Universitario en Informatica
+- 🏫 Liceo Bicentenario de Excelencia Polivalente San Nicolás 🏫
+  - Tecnico nivel medio en Quimica Industrial, mencion Planta Quimica
+
+---
+
+### 💼 Experiencia
+
+- 🎮 Mentor de Videojuegos - Fundación Mustakis 🕹️
+- 📚 Ayudantia Programación Orientada a Objeto - USM 📚
+- 👨🏽‍💻 Practicante - Colegio Particular María Paz 👨🏽‍💻
+- 🕹️ Mediador/Voluntario de Videojuegos - Fundación Mustakis 🎮
+
+---
+
+### 📫 Contacto
+
+- 📧 icabrera.balmaceda@gmail.com
+
+---
+
+
