@@ -10,7 +10,6 @@
 - 📚 Estudiando: Ingenieria en Informatica
 - 🏛️ Universidad: Universidad Tecnica Federico Santa Maria
 - ☕ Principales herramientas: Java, SpringBoot, ThymeLeaft, React, PostgreSQL y Cafe :D
-- 
 
 ---
 
@@ -27,9 +26,14 @@
 ### 💼 Experiencia
 
 - 🎮 Mentor de Videojuegos - Fundación Mustakis 🕹️
+  - Mentor taller nivel medio desarrollo en Lua basado en Roblox 🐦‍⬛
+  - Mentor taller nivel basico desarrollo en Scratch 🐣
+- 📚 Ayudantia Programación Aplicaciones Moviles - USM 📚
 - 📚 Ayudantia Programación Orientada a Objeto - USM 📚
 - 👨🏽‍💻 Practicante - Colegio Particular María Paz 👨🏽‍💻
 - 🕹️ Mediador/Voluntario de Videojuegos - Fundación Mustakis 🎮
+  - Medidador taller nivel medio desarrollo en Lua basado en Roblox 🐦‍⬛
+  - Medidador taller nivel basico desarrollo en Scratch 🐣
 
 ---
 
